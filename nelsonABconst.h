@@ -30,7 +30,7 @@ public:
     double s=20.0;
     double dt=0.05;
     double ti=0.0;
-    double B=0.001;
+    double B=0.01;
 
 };
 
